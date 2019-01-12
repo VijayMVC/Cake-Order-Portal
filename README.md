@@ -1,6 +1,7 @@
 # Cake-Order-Portal
 
 An Web Application designed using ASP.NET MVC Framework to order cake for the birthday.
+![](Images/HomePage.png)
 The application has four pages:
 
 1. Home Page
@@ -10,4 +11,3 @@ The application has four pages:
 3. Payment Page
 
 4. Confirmation Page
-![](Images/CakeOrderPage.png)
